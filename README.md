@@ -97,7 +97,7 @@ GROUP BY candidate_id
 HAVING COUNT(skill) = 3
 ````
 ![Image](path)
-- Number of Tries: 3
+- Number of Tries: 2
 - Lessons Learned:
 
 # Appendix
