@@ -43,7 +43,7 @@ JOIN sales_quotas
   ON deals.employee_id = sales_quotas.employee_id
 ORDER BY deals.employee_id ASC;
 ````
-![Image](path)
+![Image](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur/blob/main/Images/Who_Made_Quota/snap.png)
 - Number of Tries: 5
 - Lessons Learned: 
 
@@ -57,7 +57,7 @@ WHERE EXTRACT(Year from post_date) = '2021'
 GROUP BY user_id
 HAVING COUNT(user_id) >= 2
 ````
-![Image](path)
+![Image](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur/blob/main/Images/Average_Post_Hiatus/snap.png)
 - Number of Tries: 2
 - Lessons Learned:
 
@@ -70,7 +70,7 @@ FROM events
 WHERE EXTRACT(YEAR FROM events.timestamp) = '2022'
 GROUP BY app_id
 ````
-![Image](path)
+![Image](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur/blob/main/Images/App_Click_through_Rate/snap.png)
 - Number of Tries: 2
 - Lessons Learned:
 
@@ -81,7 +81,7 @@ SELECT COUNT(CASE WHEN device_type = 'laptop' THEN 1 END) AS loptop_views,
 COUNT(CASE WHEN device_type = 'phone' OR device_type ='tablet' THEN 1 END) AS mobile_views
 FROM viewership
 ````
-![Image](path)
+![Image](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur/blob/main/Images/Laptop_Vs_Mobile_Viewership/snap.png)
 - Number of Tries: 4
 - Lessons Learned:
 
@@ -96,7 +96,7 @@ OR skill = 'PostgreSQL'
 GROUP BY candidate_id
 HAVING COUNT(skill) = 3
 ````
-![Image](path)
+![Image](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur/blob/main/Images/Data_Science_Skills/snap.png)
 - Number of Tries: 2
 - Lessons Learned:
 
