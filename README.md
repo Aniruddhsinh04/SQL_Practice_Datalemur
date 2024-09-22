@@ -15,10 +15,10 @@ The questions represented herein are from "How to Ace the Data Science Interview
 # Table of Contents  
 
 ## Easy Questions
-- [Data Science Skills | Easy | LinkedIn | 09/07/2024](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur#data-science-skills--easy--linkedin--10122022)
-- [Average Post Hiatus (Part 1)| Easy | Facebook | 09/20/2024](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur#data-science-skills--easy--linkedin--10122022)
-- [Laptop Vs Mobile Viewership | Easy | New York Times | 09/14/2024](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur/blob/main/README.md#laptop-vs-mobile-viewership--easy--new-york-times--10172022)
-- [App Click-through Rate (CTR) | Easy | Facebook | 09/20/2024](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur#data-science-skills--easy--linkedin--10122022)
+- [Data Science Skills | Easy | LinkedIn | 09/07/2024](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur?tab=readme-ov-file#data-science-skills--easy--linkedin--09072024)
+- [Average Post Hiatus (Part 1)| Easy | Facebook | 09/20/2024](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur?tab=readme-ov-file#average-post-hiatus-part-1-easy--facebook--09202024)
+- [Laptop Vs Mobile Viewership | Easy | New York Times | 09/14/2024](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur?tab=readme-ov-file#laptop-vs-mobile-viewership--easy--new-york-times--09142024)
+- [App Click-through Rate (CTR) | Easy | Facebook | 09/20/2024](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur?tab=readme-ov-file#app-click-through-rate-ctr--easy--facebook--09202024)
 - [Who Made Quota? | Easy | Oracle | 09/21/2024](https://github.com/Aniruddhsinh04/SQL_Practice_Datalemur/blob/main/README.md#who-made-quota--easy--oracle--09212024)
 
 ## Medium Questions
